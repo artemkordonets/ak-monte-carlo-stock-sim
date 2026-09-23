@@ -5,7 +5,7 @@ Monte Carlo Stock Price Simulator
 A Python-based Monte Carlo simulator for modelling possible stock-price paths using Geometric Brownian Motion (GBM).
 The project shows how assumptions about expected annual return and volatility affect the distribution of possible future prices.
 
-
+_**This project is actively being developed, with additional features planned**_
 ## Features:
   - Monte Carlo simulation of stock-price paths
   - Geometric Brownian Motion model is used in the simulator
